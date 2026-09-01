@@ -1,10 +1,10 @@
 #DSA & LeetCode Practice
-Daily DSA practice on LeetCode.
+<br/>Daily DSA practice on LeetCode.
 
-📊 Stats
-Total Questions Solved: 3
-Current Streak: 2
-Last Updated: 01/09/2026
-🔗 LeetCode Profile
-https://leetcode.com/u/Tanvii_Chauhan/
-⭐ Updated daily.
+<br/>📊 Stats
+<br/>Total Questions Solved: 3
+<br/>Current Streak: 2
+<br/>Last Updated: 01/09/2026
+<br/>🔗 LeetCode Profile
+<br/>https://leetcode.com/u/Tanvii_Chauhan/
+<br/>⭐ Updated daily.
