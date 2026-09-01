@@ -1,4 +1,5 @@
-#DSA & LeetCode Practice
+# DSA & LeetCode Practice
+
 <br/>Daily DSA practice on LeetCode.
 
 <br/>📊 Stats
