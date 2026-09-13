@@ -3,9 +3,9 @@
 <br/>Daily DSA practice on LeetCode.
 
 <br/>📊 Stats
-<br/>Total Questions Solved: 10
-<br/>Current Streak: 11
-<br/>Last Updated: 12/09/2026
+<br/>Total Questions Solved: 11
+<br/>Current Streak: 12
+<br/>Last Updated: 13/09/2026
 <br/>🔗 LeetCode Profile
 <br/>https://leetcode.com/u/Tanvii_Chauhan/
 <br/>⭐ Updated daily.
